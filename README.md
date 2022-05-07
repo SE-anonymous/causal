@@ -1,7 +1,7 @@
 # ASE 2022 Causal Code Comprehension
 This repo contains the code of our framework on all tasks.
 
-## Funtion Naming
+## Function Naming
 - Data source: https://drive.google.com/uc?id=1rd2Tc6oUWBo7JouwexW3ksQ0PaOhUr6h
 
 Train and inference
