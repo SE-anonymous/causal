@@ -3,7 +3,6 @@
 
 Train and inference
 ```bash
-cd defect detection
 bash finetune.sh
 bash inference.sh
 ```
