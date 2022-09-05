@@ -18,7 +18,7 @@ Train and inference
 ```bash
 cd defect detection
 bash finetune.sh
-bash inferebce.sh
+bash inference.sh
 ```
 
 ## Code Classification
@@ -27,8 +27,8 @@ bash inferebce.sh
 Train and inference
 ```bash
 cd code classfication
-bash finetune.sh
-bash inferebce.sh
+bash cfinetune.sh
+bash cinference.sh
 ```
 
 
